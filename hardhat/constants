@@ -1,0 +1,3 @@
+const CRYPTODEVS_NFT_CONTRACT_ADDRESS = "0x791bbb01b9fd4e6b3d844ebd4dbe1ccc16edd4a3"
+
+module.exports = { CRYPTODEVS_NFT_CONTRACT_ADDRESS };
